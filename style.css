@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1{
+    padding: 50px 50px 10px 50px;
+    font-family: 'Lora', serif;
+    font-size: 50px;
+}
+
+header p{
+    font-family: 'Fira Sans', sans-serif;
+    padding-bottom: 30px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+h2{
+    font-family: 'Roboto Slab', serif;
+    font-size: 30px;
+    margin: 30px;
+}
+
+ main p{
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 15px;
+    margin: 20px;
+ }
+
+
+.book1 button{
+    font-family: 'Fira Sans', sans-serif;
+    background-color: #000000;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 25px 20px 20px 20px;
+    cursor: pointer;
+    border-radius: 25px;
+}
+
+.book1 a{
+    color: white;
+    text-decoration: none;
+}
+
+img{
+    width: 750px;
+    margin-top: 25px;
+}
+
+.book2 button {
+    font-family: 'Fira Sans', sans-serif;
+    background-color: #43ABF6;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 25px 20px 20px 20px;
+    cursor: pointer;
+    border-radius: 25px;
+}
+
+.book2 a{
+    color: white;
+    text-decoration: none;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    font-family: 'Fira Sans', sans-serif;
+    padding: 20px;
+}
