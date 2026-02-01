@@ -13,14 +13,5 @@ Praticar:
 - Layout de landing page
 - Organização visual e UX básico
 
-## 📸 Preview
-![Preview do projeto](./preview.png)
-
-## 🚀 Como visualizar
-Basta abrir o arquivo `index.html` no navegador.
-
-## 📌 Status
-✔️ Projeto finalizado (versão inicial)
-
 ---
 Desenvolvido por Victor Hugo
